@@ -6,6 +6,8 @@
 Here i used `tolgee` with `next.js` app router.
 based on `next14` app folder with `tolgee` and `next-intl` package.
 
+## image
+https://github.com/user-attachments/assets/396b9e07-7385-441e-a362-7c24c15d4b71
 ## Setup
 
 1. Clone this repo
